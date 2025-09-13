@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://khf0gkxrnylp"]
+
+[ext_resource type="AudioStream" uid="uid://cs684rkwsssgp" path="res://art/Pokemon-Battle-music.ogg" id="1_1a72i"]
+
+[node name="MusicPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_1a72i")
+autoplay = true

@@ -1,0 +1,14 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://d0uvupw6hxnmw"]
+
+[ext_resource type="Texture2D" uid="uid://ocec7g0vrl31" path="res://art/Floor Grass Sliced F_tiny_treats_grass_texture.png" id="1_mng7u"]
+
+[resource]
+resource_name = "tiny_treats_grass"
+albedo_texture = ExtResource("1_mng7u")
+metallic = 0.4
+metadata/extras = {
+"fromFBX": {
+"isTruePBR": false,
+"shadingModel": "Phong"
+}
+}
