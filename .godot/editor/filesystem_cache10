@@ -1,15 +1,16 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757752315
+::res://::1757755298
 Cubone.glb::PackedScene/PackedScene::7523567021993882413::1757749795::1757749797::1::::<><><>0<>0<>0aa3297e124acac2889a0156fbaa4931<>res://.godot/imported/Cubone.glb-d6994a6c1242e6e973a772b57da997c7.scn::
+export_presets.cfg::TextFile::-1::1757755298::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757749535::1757749535::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 Low Poly Haunter.glb::PackedScene/PackedScene::6312154423946778935::1757750500::1757750501::1::::<><><>0<>0<>ac404a25433e181a4c3e417467a8884c<>res://.godot/imported/Low Poly Haunter.glb-44ad1c2823ad3cbb0d537247a42fe1cc.scn::
 Main.gd::GDScript/GDScript::8123949213996832648::1757749535::0::1::::<>Node<><>0<>0<><>::
-Main.tscn::PackedScene::1946344858681233962::1757752260::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://d0uvupw6hxnmw::::res://art/tiny_treats_grass.tres<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://b18sueyji1663::::res://art/Tuft of grass.glb<>uid://ofhvwth8plpb::::res://ScoreLabel.gd
+Main.tscn::PackedScene::1946344858681233962::1757753105::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://d0uvupw6hxnmw::::res://art/tiny_treats_grass.tres<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://b18sueyji1663::::res://art/Tuft of grass.glb<>uid://ofhvwth8plpb::::res://ScoreLabel.gd
 Mob.gd::GDScript/GDScript::7291350454852087858::1757749535::0::1::::<>CharacterBody3D<><>0<>0<><>::
-Mob.tscn::PackedScene::492840770380503333::1757752260::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cv6wi45bums6r::::res://Low Poly Haunter.glb
+Mob.tscn::PackedScene::492840770380503333::1757754406::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cv6wi45bums6r::::res://Low Poly Haunter.glb
 MusicPlayer.tscn::PackedScene/PackedScene::716687642126613565::1757750962::0::1::::<><><>0<>0<><>::uid://cs684rkwsssgp::::res://art/Pokemon-Battle-music.ogg
 Player.gd::GDScript/GDScript::9001394967907948641::1757749535::0::1::::<>CharacterBody3D<><>0<>0<><>::
-Player.tscn::PackedScene::8273964046187778922::1757752260::0::1::::<><><>0<>0<><>::uid://d1ilwo7xlp834::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dfgqbxni4dvi8::::res://Cubone.glb
+Player.tscn::PackedScene::8273964046187778922::1757754406::0::1::::<><><>0<>0<><>::uid://d1ilwo7xlp834::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dfgqbxni4dvi8::::res://Cubone.glb
 README.md::TextFile/TextFile::-1::1757749535::0::1::::<><><>0<>0<><>::
 ScoreLabel.gd::GDScript/GDScript::993429405551857235::1757749536::0::1::::<>Label<><>0<>0<><>::
 ui_theme.tres::Theme/Theme::5930143872682747302::1757749536::0::1::::<><><>0<>0<><>::uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf
@@ -29,3 +30,7 @@ Tuft of grass.glb::PackedScene/PackedScene::4280583953503184806::1757751754::175
 ::res://fonts/::1757749537
 LICENSE.txt::TextFile/TextFile::-1::1757749537::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757749537::1757749537::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://lab3D/::1757755297
+663380522-3.apple-touch-icon.png::CompressedTexture2D::205467170500903133::1757755297::1757755323::1::::<><><>0<>0<>496d8adefb5d317ac8794edb28bcc302<>res://.godot/imported/663380522-3.apple-touch-icon.png-1668eb46b4f53f60b6beff6be15f7961.ctex::
+663380522-3.icon.png::CompressedTexture2D::7078225167610089168::1757755297::1757755323::1::::<><><>0<>0<>fb71ba52cbe5cd506078ab4f39d867fa<>res://.godot/imported/663380522-3.icon.png-7f05ff3d1ce914e3a53bdca2d4215934.ctex::
+663380522-3.png::CompressedTexture2D::3578555896821528073::1757755297::1757755323::1::::<><><>0<>0<>60623de4e0ec5aa5f977398c1f8d356f<>res://.godot/imported/663380522-3.png-5a8daa72c26c294c2c61b1929713ec63.ctex::
